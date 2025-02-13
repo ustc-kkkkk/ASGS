@@ -35,5 +35,5 @@ Download the training and validation set of [Waymo Open Dataset](https://console
 
 ### 🛠️ Pipeline
 <div align="center">
-  <img src="assets/pipeline.png"/>
+  <img src="assets/arch.png"/>
 </div><br/>
